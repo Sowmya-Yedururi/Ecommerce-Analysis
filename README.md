@@ -1,15 +1,16 @@
 # Ecommerce-Analysis
 
 ## Table of Contents
-- [Overview](#overview)
+- [Project Overview](#project-overview)
 - [Dataset Details](#dataset-details)
+- [Tools](#tools)
 - [Data Analysis](#data-analysis)
 - [Dashboard](#dashboard)
 - [Challenges Encountered](#challenges-encountered)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 
-## Overview
+## Project Overview
 
 This project analyzes the operations of Olist, the largest department store in Brazilian marketplaces. Olist connects small businesses across Brazil to e-commerce platforms, providing logistics support and a streamlined selling process. The dataset spans 2017 and 2018, providing valuable insights into customer behavior, product performance, and operational efficiency.
 
@@ -32,6 +33,13 @@ The analysis was conducted using the following datasets:
 **Products Dataset:** Contains product details like category, dimensions, and weights.
 
 **Sellers Dataset:** Provides information on all registered sellers.
+
+## Tools:
+
+- Excel
+- Power BI
+- Tableau
+- MySQL
 
 ## Data Analysis
 
