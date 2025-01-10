@@ -24,6 +24,12 @@ The analysis was conducted using the following datasets:
 
 **Sellers Dataset:** Provides information on all registered sellers.
 
+## Data Analysis
+
+I worked on eCommerce data analysis using MySQL to explore various metrics.
+**Weekday vs Weekend payment statistics**
+`
+
 ## Challenges Encountered
 
 - Handling null values in datasets.
