@@ -1,7 +1,13 @@
 # Ecommerce-Analysis
 
 ## Table of Contents
-
+- [Overview](#overview)
+- [Dataset Details](#dataset-details)
+- [Data Analysis](#data-analysis)
+- [Dashboard](#dashboard)
+- [Challenges Encountered](#challenges-encountered)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
 
 ## Overview
 
@@ -110,6 +116,9 @@ GROUP BY
 ORDER BY 
     r.review_score;
 ```
+
+## Dashboard
+
 
 ## Challenges Encountered
 
