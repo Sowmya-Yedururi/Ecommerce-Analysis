@@ -133,4 +133,4 @@ Some categories outperform others in terms of both sales volume and customer sat
 - Focusing on reducing delivery delays and prioritizing faster deliveries in high-demand urban areas will enhance customer satisfaction and retention.
 - Using geolocation insights, tailored marketing efforts can unlock untapped regional potential. Seasonal promotions of highly rated products will further drive sales growth.
 
-*Thank you for taking the time to explore my project. Your interest and feedback are truly appreciated!*😊
+*Thank you for taking the time to explore my project. Your interest and feedback are truly appreciated!* 😊
